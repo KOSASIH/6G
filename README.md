@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KOSASIH/6G)
+
 [pa]: https://console.ng.bluemix.net/catalog/services/ibm-watson-machine-learning/  "ML"
 [bm]: https://console.ng.bluemix.net/
 [pa-api]: http://watson-ml-api.mybluemix.net/
